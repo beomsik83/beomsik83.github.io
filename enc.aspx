@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
 <html>
 <head id="Head1" runat="server">
-	<title>동희오토 - 설비현황</title>
+	<title>현황</title>
     <link rel="stylesheet" type="text/css" href="./Common/Css/common.css" />
 </head>
 <body>
